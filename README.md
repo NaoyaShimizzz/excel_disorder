@@ -32,7 +32,7 @@ DX（デジタルトランスフォーメーション）推進において、デ
 
 参考【シール印刷方法】[ローソン：ネットワークプリントで「シール活動」しよう！操作説明編](https://www.lawson.co.jp/lab/tsuushin/art/1443714_4659.html)
 
-やく# 作成の経緯
+# 作成の経緯
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">行政データを使いやすく綺麗にする取り組み。産官学でデータ流通させやすいようにしたい。まずは”エクセルの乱れは心の乱れ”のつもりで身近なところからも。データ整備マニュアルは他自治体の皆さんの参考になる内容もあると思うので関係者のかたどうぞ。<a href="https://t.co/oU4PJXLdA9">https://t.co/oU4PJXLdA9</a> <a href="https://t.co/vB4hzlkNCE">https://t.co/vB4hzlkNCE</a> <a href="https://t.co/pY1NL56zGB">pic.twitter.com/pY1NL56zGB</a></p>&mdash; 宮坂 / miyasaka (@miyasaka) <a href="https://twitter.com/miyasaka/status/1509595861956898817?ref_src=twsrc%5Etfw">March 31, 2022</a></blockquote>
 
 こちらの東京都 宮坂副知事のツイートを元に、都庁職員有志で作成しました。（業務時間外の活動です）
