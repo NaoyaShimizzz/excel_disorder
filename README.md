@@ -28,6 +28,8 @@ DX（デジタルトランスフォーメーション）推進において、デ
 
 印刷方法：ネットワークプリント ＞ ユーザー番号（上記）入力 ＞　画像プリント：シール紙　＞　ましかくプリント　＞スクエア
 
+<img src="https://raw.githubusercontent.com/NaoyaShimizzz/excel_disorder/5edc0c09e4859de8ddbf91563e8b78b2fbac55b2/%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88sample.jpg" width="60%">
+
 （約12cm×12cmのシールに画像4枚分が印刷されます）
 
 参考【シール印刷方法】[ローソン：ネットワークプリントで「シール活動」しよう！操作説明編](https://www.lawson.co.jp/lab/tsuushin/art/1443714_4659.html)
