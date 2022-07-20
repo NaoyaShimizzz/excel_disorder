@@ -22,7 +22,7 @@ DX（デジタルトランスフォーメーション）推進において、デ
 
 ユーザー番号：5FRFAC3ZJQ
 
-期間：2022年7月21日21時頃
+期間：2022年8月18日21時頃
 
 対象店舗：ローソン、ファミリーマート、ポプラ
 
@@ -38,6 +38,10 @@ DX（デジタルトランスフォーメーション）推進において、デ
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">行政データを使いやすく綺麗にする取り組み。産官学でデータ流通させやすいようにしたい。まずは”エクセルの乱れは心の乱れ”のつもりで身近なところからも。データ整備マニュアルは他自治体の皆さんの参考になる内容もあると思うので関係者のかたどうぞ。<a href="https://t.co/oU4PJXLdA9">https://t.co/oU4PJXLdA9</a> <a href="https://t.co/vB4hzlkNCE">https://t.co/vB4hzlkNCE</a> <a href="https://t.co/pY1NL56zGB">pic.twitter.com/pY1NL56zGB</a></p>&mdash; 宮坂 / miyasaka (@miyasaka) <a href="https://twitter.com/miyasaka/status/1509595861956898817?ref_src=twsrc%5Etfw">March 31, 2022</a></blockquote>
 
 こちらの東京都 宮坂副知事のツイートを元に、都庁職員有志で作成しました。（業務時間外の活動です）
+
+参考）「データのじかん」さんに取り上げていただきました。
+
+[東京都庁で根付く有志のDXコミュニティ　組織を超えた「ゆるやかなつながり」が巨像を動かす](https://data.wingarc.com/localdxlab-13-tokyo_02-44087)
 
 # 参考
 * [【総務省】統計表における機械判読可能なデータの表記方法の統一ルールの策定](https://www.soumu.go.jp/menu_news/s-news/01toukatsu01_02000186.html)
